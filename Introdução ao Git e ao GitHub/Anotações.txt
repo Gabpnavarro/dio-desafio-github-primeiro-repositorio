@@ -3,7 +3,7 @@ Minha Primeira Experiências e Dificuldades com o Git Bash e GitHub
 
 O Git Bash é um terminal extendido para otimizar o uso do Git. 
 
-Ele é um ótimo terminar mas não foi atualizado para o windows 11, há apenas duas 
+Ele é um ótimo terminal mas não foi atualizado para o windows 11, há apenas duas 
 funções indisponíveis para o windows 11, por exemplo, a função "Open Git Bash here" 
 e outra é abrir um arquivo com o markdown, atualmente eu não consigo.
 
