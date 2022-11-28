@@ -1,26 +1,17 @@
-Minha Primeira Experiências e Dificuldades com o Git Bash e GitHub
+Minha Primeira Experiência e Dificuldade com o Git Bash e GitHub
 
 
-O Git Bash é um terminal extendido para otimizar o uso do Git. 
-
-Ele é um ótimo terminal mas não foi atualizado para o windows 11, há apenas duas 
+Ele é um ótimo terminal mas não foi atualizado para o windows 11. Há apenas duas 
 funções indisponíveis para o windows 11, por exemplo, a função "Open Git Bash here" 
-e outra é abrir um arquivo com o markdown, atualmente eu não consigo.
+e outra é abrir um arquivo com o markdown, atualmente eu não consigo utilizar nenhuma
+das duas funções.
 
 Uma dica para os novatos, como eu, é ativar seu token para dar acesso a qualquer 
-pessoa ou empresa visualizar seus projetos. Houve uma atualização e há opções BETAS 
-para gerar o token, ignore totalmente as opções BETA e siga esse passo a passo:  
+pessoa ou empresa visualizar seus repositórios e projetos. Houve uma atualização e 
+há opções BETAS para gerar o token, ignore totalmente as opções BETA e siga esse passo 
+a passo:  
 
 Settings/Developer_settings/Personal_access_tokens/Tokens(classic)/
 Generate_new_token(classic)_For_general_use
 
-Contanto que você marque todos os tópicos da página.
-
-
-
-
-
-
-
-
-Link para download ao Git: https://git-scm.com/downloads
+Contanto que você marque todos os tópicos da página do TOKEN.
